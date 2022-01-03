@@ -15,10 +15,14 @@ public class Demo{
 public void test() {
 	LaunchBrowser.LaunchChrome("https://www.javatpoint.com/log4j-example");
 
-	//log.debug("This is debug");
 	log.info("Browser Launced succesfully");
 	//POM.login();
 	log.info("User logged in successfuylly");
+	System.out.println("Checking git");	
+}
+@Test
+public void LoginTest() {
+	LaunchBrowser.LaunchChrome("");
 }
 
 
