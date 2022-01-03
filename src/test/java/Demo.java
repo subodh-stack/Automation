@@ -22,7 +22,7 @@ public void test() {
 }
 @Test
 public void LoginTest() {
-	
+	LaunchBrowser.LaunchChrome("");
 }
 
 
