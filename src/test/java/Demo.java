@@ -18,7 +18,8 @@ public void test() {
 	log.info("Browser Launced succesfully");
 	//POM.login();
 	log.info("User logged in successfuylly");
-	System.out.println("Checking git");	
+	System.out.println("This is for demo purpose");
+
 }
 @Test
 public void LoginTest() {
