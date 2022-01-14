@@ -5,8 +5,9 @@
     <classes>
       <class name="Demo">
         <methods>
-          <include name="test"/>
-          <include name="onTestFailure"/>
+          <include name="startTest"/>
+          <include name="login"/>
+          <include name="endTest"/>
         </methods>
       </class> <!-- Demo -->
     </classes>
