@@ -26,5 +26,10 @@ public void LoginTest() {
 	LaunchBrowser.LaunchChrome("");
 }
 
+@Test
+public void demo() {
+	System.out.println("adding new tes");
+}
+
 
 }
